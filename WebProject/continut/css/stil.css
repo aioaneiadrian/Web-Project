@@ -1,0 +1,64 @@
+
+body {
+  background-image:url("back1.jpg");
+  background-size:10%;
+  background-repeat:repeat;
+    color:black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+footer 
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(69, 95, 245);
+  text-align: center;
+}
+nav
+{
+ 
+  margin-top: 20px;
+  background-color: rgb(69, 95, 245);
+  font-size: 40px;
+
+  
+}
+
+nav a
+{
+  color: white;
+  text-decoration: none;
+  padding: 15px 15px 15px ;
+  font-weight: bold ;
+}
+nav a:hover
+{
+  text-decoration: underline;
+}
+.flex-container {
+  display: flex;
+  background-color: rgb(38, 219, 22);
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+canvas{
+  border:2px solid black;
+  position: relative;
+}
+
+

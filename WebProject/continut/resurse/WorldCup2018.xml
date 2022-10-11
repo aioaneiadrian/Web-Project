@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Grupe>
+    <Grupa id="A">
+
+        <Uruguay>
+            <MP>3</MP>
+            <Goals>5:0</Goals>
+            <Points>9</Points>
+        </Uruguay>
+
+        <Russia>
+            <MP>3</MP>
+            <Goals>8:4</Goals>
+            <Points>6</Points>
+        </Russia>
+
+        <Saudi_Arabia>
+            <MP>3</MP>
+            <Goals>2:7</Goals>
+            <Points>3</Points>
+        </Saudi_Arabia>
+
+        <Egypt>
+            <MP>3</MP>
+            <Goals>2:6</Goals>
+            <Points>0</Points>
+        </Egypt>
+    </Grupa>
+
+    <Grupa id="B">
+
+        <Spain>
+            <MP>3</MP>
+            <Goals>6:5</Goals>
+            <Points>5</Points>
+        </Spain>
+
+        <Portugal>
+            <MP>3</MP>
+            <Goals>5:4</Goals>
+            <Points>5</Points>
+        </Portugal>
+
+        <Iran>
+            <MP>3</MP>
+            <Goals>2:2</Goals>
+            <Points>4</Points>
+        </Iran>
+
+        <Morocco>
+            <MP>3</MP>
+            <Goals>2:4</Goals>
+            <Points>1</Points>
+        </Morocco>
+    </Grupa>
+
+    <Grupa id="C">
+
+        <France>
+            <MP>3</MP>
+            <Goals>3:1</Goals>
+            <Points>7</Points>
+        </France>
+
+        <Denmark>
+            <MP>3</MP>
+            <Goals>2:1</Goals>
+            <Points>5</Points>
+        </Denmark>
+
+        <Peru>
+            <MP>3</MP>
+            <Goals>2:2</Goals>
+            <Points>3</Points>
+        </Peru>
+
+        <Australia>
+            <MP>3</MP>
+            <Goals>2:5</Goals>
+            <Points>1</Points>
+        </Australia>
+    </Grupa>
+</Grupe>

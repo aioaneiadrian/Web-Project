@@ -1,0 +1,1 @@
+C:\Users\Adi\AppData\Local\Microsoft\WindowsApps\python.exe server_web.py
